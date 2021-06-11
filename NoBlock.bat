@@ -1,4 +1,5 @@
 @echo off
+chcp 437
 title NoBlock for Windows by AnthonyT
 color a
 rem Check for admin rights, if insufficient rights request with a UAC popup
