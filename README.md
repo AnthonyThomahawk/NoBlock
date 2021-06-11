@@ -1,5 +1,5 @@
 # NoBlock
-Shell script to unblock access to restricted websites.
+Shell script to unblock access to restricted websites, for windows systems.
 
 # What is this and how do i use it
 NoBlock is a simple shell script that unblocks access to blocked websites, blocked either by parental controls or by your ISP. <br>
