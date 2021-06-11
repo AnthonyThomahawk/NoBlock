@@ -7,3 +7,5 @@ NoBlock is a simple shell script that unblocks access to blocked websites, block
 To use NoBlock, download the script (NoBlock.bat) then double click it (it will automatically request admin rights if not given).
 
 ![ez2](https://i.imgur.com/JnZx9wV.png)
+
+Script was tested and working in Windows 10 versions 20H2 and 2004.
